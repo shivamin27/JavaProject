@@ -5,6 +5,8 @@ public class New {
     {
         System.out.println("This is NEW Added Class");
 
+        System.out.println("This is Second Line");
+
 
     }
 }
